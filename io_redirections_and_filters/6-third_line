@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne '3..3 and print' teste
+perl -ne '3..3 and print' iacta
