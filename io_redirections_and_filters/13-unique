@@ -1,2 +1,2 @@
 #!/bin/bash
-less lista | tr " " "\n" | uniq -u
+cat list | tr " " "\n" | uniq -u
