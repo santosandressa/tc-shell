@@ -1,0 +1,17 @@
+total 68
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    29 abr 27 14:06 4-lastlines
+-rw-r--r-- 1 CIANDT\andressas CIANDT\domain^users     8 abr 27 13:29 smiley.txt
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    26 abr 27 13:29 0-hello_world
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    29 abr 27 14:06 5-firstlines
+-rwxrwxrwx 1 CIANDT\andressas CIANDT\domain^users   100 abr 27 17:37 7-file
+-rw-r--r-- 1 CIANDT\andressas CIANDT\domain^users    13 abr 27 13:29 hello.txt
+-rw-r--r-- 1 CIANDT\andressas CIANDT\domain^users     0 abr 28 10:11 ls_cwd_content
+-rw-r--r-- 1 CIANDT\andressas CIANDT\domain^users     7 abr 27 13:29 README.md
+-rwxrwxrwx 1 CIANDT\andressas CIANDT\domain^users    39 abr 28 10:11 8-cwd_state
+drwxr-xr-x 2 CIANDT\andressas CIANDT\domain^users  4096 abr 28 10:11 .
+-rw-r--r-- 1 CIANDT\andressas CIANDT\domain^users 12288 abr 27 17:10 .7-file.swp
+drwxr-xr-x 4 CIANDT\andressas CIANDT\domain^users  4096 abr 27 13:29 ..
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    28 abr 27 14:06 2-hellofile
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    27 abr 27 13:29 1-confused_smiley
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    39 abr 27 14:06 3-twofiles
+-rwxr-xr-x 1 CIANDT\andressas CIANDT\domain^users    44 abr 27 17:12 6-third_line
